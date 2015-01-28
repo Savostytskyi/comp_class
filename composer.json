@@ -1,0 +1,14 @@
+{	"name": "Savostytskyi/project",
+	"version":"master",
+	"repositories": [
+		{
+			"type" : "vcs",
+			"url" : "https://github.com/savostytskyi/comp_class"
+		}
+	],
+	"autoload": {
+        "psr-0": {
+		"CityClasses": "./"
+		}
+    }
+}	
